@@ -66,17 +66,9 @@
         <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Un long édito ce mois-ci à l'image des nombreuses bonnes nouvelles de novembre ... et ça continue en décembre ! </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#EDF2F7">
-      <mj-column width="30%">
-        <mj-image padding="0" border="none" width="480px" src="https://i.ibb.co/CmV9Byr/112024-A12-Assurance.jpg" alt="De plus en plus de jeunes ont recours à l’apprentissage pour se former."/>
-      </mj-column>
-      <mj-column width="70%">
-        <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Découverte Entreprise</mj-text>
-        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Réunion BNI</mj-text>
-        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">Le <span style="font-weight:700">Groupe IGENSIA Education</span> dévoile les résultats de son <span style="font-weight:700">baromètre annuel 2024</span>, révélant une tendance positive en faveur de l'alternance en France.</mj-text>
-        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">Réalisé en partenariat avec <span style="font-weight:700">Angie / Opinion Data Intelligence</span>, ce baromètre repose sur une étude d'opinion menée auprès de 1 528 répondants représentatifs de la population française.</mj-text>
-        <mj-spacer height="10px"></mj-spacer>
-        <mj-text padding="5px 25px" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/wp-content/uploads/2024/10/francaisAlternanceBarometreIgensia.pdf" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:400" target="_blank">À télécharger...</a></mj-text>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-spacer height="30px"></mj-spacer>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7">
@@ -85,11 +77,35 @@
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Découverte Entreprise</mj-text>
-        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Intégration de nos élèves au sein de Sofinco</mj-text>
-        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748"> </mj-text>
-        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748"> </mj-text>
+        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Réunion BNI spéciale invités s'invite chez EcoSup Campus !</mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">Un grand moment de réseautage et de partage à Tourcoing !</mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">C'est près de 40 entreprises du secteur qui se sont réunis jeudi 14 novembre au sein de notre école. Un grand merci à tous les participants de cet évènement majeur, et merci à Caroline Morel et Jonathan Bailleul, Direction BNI Nord, pour leur confiance !</mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">Une opportunité également pour nos les élèves de BTS et de Bachelor présents de participer à un évènement pro... </mj-text>
         <mj-spacer height="10px"></mj-spacer>
-        <mj-text padding="5px 25px" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/wp-content/uploads/2024/10/francaisAlternanceBarometreIgensia.pdf" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:400" target="_blank">À télécharger...</a></mj-text>
+        <mj-text padding="5px 25px" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/wp-content/uploads/2024/10/francaisAlternanceBarometreIgensia.pdf" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:400" target="_blank">En savoir plus...</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-spacer height="30px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EDF2F7">
+      <mj-column width="30%">
+        <mj-image padding="0" border="none" width="480px" src="https://i.ibb.co/CmV9Byr/112024-A12-Assurance.jpg" alt="De plus en plus de jeunes ont recours à l’apprentissage pour se former."/>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Découverte Entreprise</mj-text>
+        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Journée d'intégration Groupe Crédit Agricole pour les alternants EcoSup Assurance !</mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">La nouvelle promotion d'alternants s'est réunie jeudi pour leur journée d'intégration dédiée à la découverte du Groupe Crédit Agricole, ses métiers, ses stratégies et notre PlanJeunesse.</mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">Nous souhaitons à nos alternants Sofinco - CA de nombreux beaux projets à venir.</mj-text>
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text padding="5px 25px" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/wp-content/uploads/2024/10/francaisAlternanceBarometreIgensia.pdf" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:400" target="_blank">En savoir plus...</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-spacer height="30px"></mj-spacer>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7">
@@ -105,6 +121,11 @@
         <mj-text padding="5px 25px" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/wp-content/uploads/2024/10/francaisAlternanceBarometreIgensia.pdf" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:400" target="_blank">En savoir plus...</a></mj-text>
       </mj-column>
     </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-spacer height="30px"></mj-spacer>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#EDF2F7">
       <mj-column width="30%">
         <mj-image padding="0" border="none" width="480px" src="https://i.ibb.co/CmV9Byr/112024-A12-Assurance.jpg" alt="De plus en plus de jeunes ont recours à l’apprentissage pour se former."/>
@@ -116,6 +137,11 @@
         <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">C'est au travers de formations pointues et complètes, dispensées par des acteurs reconnus : <span style="font-weight:700">CNRFP</span>, centre de formations professionnelles, et <span style="font-weight:700;">AKTO</span>, formations en ressources humaines, que nos équipes continuent tout au long de l'année de se spécialiser sur ce sujet si important.</mj-text>
       </mj-column>
     </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-spacer height="30px"></mj-spacer>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#270938">
       <mj-column width="30%">
         <mj-image padding="10px 0" border="none" target="_blank" src="https://i.ibb.co/SmTfMy7/news-AE04-082024.jpg" href="https://ecosup-assurance.fr/cv-book/" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
@@ -124,6 +150,11 @@
         <mj-text padding="0px 25px" align="left" font-size="14px" font-weight="900" color="#718096" line-height="18px" text-transform="uppercase">Apprentissage</mj-text>
         <mj-text padding="5px 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#ffffff">Votre entreprise recherche un collaborateur ! </mj-text>
         <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#e2e5e9">Certains de nos étudiants(es) n'ont toujours pas de <span style="font-weight:700;">contrat d'apprentissage</span>. Découvrez leur profil, téléchargez et consultez notre <a style="color:#BA4995;font-weight:700" href="https://ecosup-assurance.fr/cv-book/">CV Book code:102024</a>. Vous y trouverez sans aucun doute votre futur apprenti !</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-spacer height="30px"></mj-spacer>
       </mj-column>
     </mj-section>
     <mj-section background-color="#2D3748" padding-left="17px" padding-right="17px">
