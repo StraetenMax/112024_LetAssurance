@@ -85,12 +85,13 @@
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase" letter-spacing="1px">Découverte Entreprise</mj-text>
-        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Réunion BNI spéciale invités s'invite chez EcoSup Campus !</mj-text>
-        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">Un grand moment de réseautage et de partage à Tourcoing !</mj-text>
-        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">C'est près de 40 entreprises du secteur qui se sont réunis jeudi 14 novembre au sein de notre école. Un grand merci à tous les participants de cet évènement majeur, et merci à Caroline Morel et Jonathan Bailleul, Direction BNI Nord, pour leur confiance !</mj-text>
-        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">Une opportunité également pour nos les élèves de BTS et de Bachelor présents de participer à un évènement pro... </mj-text>
+        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Réunion BNI spéciale invités s'invite chez Ecosup Campus !</mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="700" color="#2D3748">Un grand moment de réseautage et de partage à Tourcoing !</mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">Pensez-vous qu'il soit possible de déjeuner avec la Caisse d'Epargne de Tourcoing, Allianz de Roncq, un expert-comptable, une décoratrice d'intérieur, un architecte et des dizaines d'autres entreprises en même temps ?</mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">C'est ce qu'<span style="font-weight:700;">Ecosup Campus</span> a réalisé avec le <span style="font-weight:700;">BNI</span> ce jeudi 14 novembre lors de la <span style="font-weight:700">réunion spéciale invités</span> ! Une belle manière pour <span style="font-weight:700;">Ecosup Campus</span> de rayonner au niveau régional et une chance également pour nos élèves de BTS et de Bachelor présents de participer à un évènement pro...</mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">Un grand merci à Caroline Morel et Jonathan Bailleul, Direction BNI Nord, pour leur confiance !</mj-text>
         <mj-spacer height="10px"></mj-spacer>
-        <mj-text padding="5px 25px" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/wp-content/uploads/2024/10/francaisAlternanceBarometreIgensia.pdf" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:400" target="_blank">En savoir plus...</a></mj-text>
+        <mj-text padding="5px 25px" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/wp-content/uploads/2024/10/francaisAlternanceBarometreIgensia.pdf" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:700" target="_blank">En savoir plus...</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
@@ -105,11 +106,11 @@
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase" letter-spacing="1px">Découverte Entreprise</mj-text>
-        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Journée d'intégration Groupe Crédit Agricole pour les alternants EcoSup Assurance !</mj-text>
-        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">La nouvelle promotion d'alternants s'est réunie jeudi pour leur journée d'intégration dédiée à la découverte du Groupe Crédit Agricole, ses métiers, ses stratégies et notre PlanJeunesse.</mj-text>
-        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">Nous souhaitons à nos alternants Sofinco - CA de nombreux beaux projets à venir.</mj-text>
+        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Journée d'intégration Groupe Crédit Agricole pour les alternants Ecosup Assurance !</mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">La nouvelle promotion d'alternants s'est réunie ce jeudi 13 novembre à Massy pour leur journée d'intégration au siège de <span style="font-weight:700">SOFINCO</span>, consacrée à la découverte du <span style="font-weight:700">Groupe Crédit Agricole</span>, de ses métiers, de ses stratégies et de leur PlanJeunesse. Une journée riche en informations mais surtout un très beau moment de cohésion.</mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">Nous souhaitons à nos alternants du <span style="font-weight:700;">Groupe Crédit Agricole</span> une belle année de formation !</mj-text>
         <mj-spacer height="10px"></mj-spacer>
-        <mj-text padding="5px 25px" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/wp-content/uploads/2024/10/francaisAlternanceBarometreIgensia.pdf" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:400" target="_blank">En savoir plus...</a></mj-text>
+        <mj-text padding="5px 25px" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/wp-content/uploads/2024/10/francaisAlternanceBarometreIgensia.pdf" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:700" target="_blank">En savoir plus...</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
@@ -125,10 +126,10 @@
       <mj-column width="70%">
         <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase" letter-spacing="1px">Formation</mj-text>
         <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Ecosup Assurance : objectif Bac+5 Expert en Ingénerie Patrimoniale</mj-text>
-        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">Présent lors du grand <span style="font-weight:700">rendez-vous des écoles partenaires de l'ESA</span> (École Supérieure d'Assurance installée dans la magnifique Résidence Internationale de Paris), EcoSup Assurance finalise et consolide son cursus de formation des professionnels de la Banque Assurance. Un grand pas pour EcoSup Assurance, une opportunité incroyable pour nos élèves.</mj-text>
-        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">On vous attend lors de la Grande Journée Porte Ouverte du 25 janvier 2025 pour le lancement officiel du diplôme de Gestion de patrimoine !</mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">Présent lors du grand <span style="font-weight:700;">rendez-vous des écoles partenaires de l'ESA</span> (École Supérieure d'Assurance), <span style="font-weight:700;">Ecosup Assurance</span> finalise et consolide son cursus de formation des professionnels de la Banque Assurance avec ce diplôme reconnu d'Ingénierie Patrimoniale. Un grand pas pour <span style="font-weight:700;">Ecosup Assurance</span> et surtout pour nos élèves.</mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">On vous attend lors de la Grande <span style="font-weight:700;">Journée Porte Ouverte du 25 janvier 2025</span> pour le lancement officiel du diplôme de Gestion de patrimoine !</mj-text>
         <mj-spacer height="10px"></mj-spacer>
-        <mj-text padding="5px 25px" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/wp-content/uploads/2024/10/francaisAlternanceBarometreIgensia.pdf" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:400" target="_blank">En savoir plus...</a></mj-text>
+        <mj-text padding="5px 25px" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/wp-content/uploads/2024/10/francaisAlternanceBarometreIgensia.pdf" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:700" target="_blank">En savoir plus...</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
