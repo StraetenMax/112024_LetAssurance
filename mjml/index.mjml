@@ -78,6 +78,11 @@
         <mj-spacer height="30px"></mj-spacer>
       </mj-column>
     </mj-section>
+    <mj-section background-color="#EDF2F7" padding="0">
+      <mj-column>
+        <mj-image padding="0" border="none" width="600px" src="https://i.ibb.co/qR21bbZ/BNI112024.jpg" alt="De plus en plus de jeunes ont recours à l’apprentissage pour se former."/>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#EDF2F7">
       <mj-column width="30%" css-class="logo">
         <mj-image padding="0" border="none" width="480px" src="https://i.ibb.co/z26M6dH/112024-A2-Assurance.jpg" alt="De plus en plus de jeunes ont recours à l’apprentissage pour se former."/>
@@ -99,6 +104,11 @@
         <mj-spacer height="30px"></mj-spacer>
       </mj-column>
     </mj-section>
+    <mj-section background-color="#EDF2F7" padding="0">
+      <mj-column>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" src="https://i.ibb.co/9rT1V9P/Sofinco112024.jpg" alt="De plus en plus de jeunes ont recours à l’apprentissage pour se former."/>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#EDF2F7">
       <mj-column width="30%" css-class="logo">
         <mj-image padding="0" border="none" fluid-on-mobile="true" width="480px" src="https://i.ibb.co/G77qxcj/Logo-Assurance05.jpg" alt="De plus en plus de jeunes ont recours à l’apprentissage pour se former."/>
@@ -116,6 +126,11 @@
     <mj-section padding="0">
       <mj-column>
         <mj-spacer height="30px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding="0">
+      <mj-column>
+        <mj-image padding="0" border="none" width="600px" src="https://i.ibb.co/RYZDNdT/Esa112024.jpg" alt="De plus en plus de jeunes ont recours à l'apprentissage pour se former."/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7">
