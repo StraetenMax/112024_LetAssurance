@@ -64,12 +64,12 @@
         <mj-text padding="5px 10px" align="left" font-size="16px" font-weight="300" color="#2D3748"><span style="font-weight:700;text-transform:uppercase">News Ecosup Assurance</span> | Novembre 2024  </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#EDF2F7" padding="0px">
+    <mj-section background-color="#eff1f5" padding="0px">
       <mj-column width="100%">
         <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" src="https://i.ibb.co/517Cws3/video-Bandeau102024.gif" alt="l'univers de l'assurance avec portrait de Christian ANNALORO, responsable pédagogique d'Ecosup Assurance"/>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#EDF2F7" padding-top="10px" padding-bottom="40px" border-radius="0 0 25px 25px">
+    <mj-section background-color="#eff1f5" padding-top="10px" padding-bottom="40px" border-radius="0 0 25px 25px">
       <mj-column width="88%"> 
         <mj-text padding-top="5px" padding-bottom="0" font-size="14px" font-weight="900" line-height="18px" text-transform="uppercase" color="#944694" letter-spacing="1px">Édito</mj-text>
         <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#45546e">Bonjour à tous,</mj-text>
@@ -84,12 +84,12 @@
         <mj-spacer height="30px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#EDF2F7" padding="0">
+    <mj-section background-color="#eff1f5" padding="0">
       <mj-column>
         <mj-image padding="0" border="none" width="600px" src="https://i.ibb.co/qR21bbZ/BNI112024.jpg" alt="De plus en plus de jeunes ont recours à l’apprentissage pour se former."/>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#EDF2F7" padding-left="25px" padding-right="25px" border-radius="0 0 25px 25px">
+    <mj-section background-color="#eff1f5" padding-left="25px" padding-right="25px" border-radius="0 0 25px 25px">
       <mj-column width="30%" css-class="logo" padding-right="25px">
         <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/xqBHgXt/lg-BNI112024.png" alt="logo couleur du BNI"/>
       </mj-column>
@@ -109,12 +109,12 @@
         <mj-spacer height="30px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#EDF2F7" padding="0">
+    <mj-section background-color="#eff1f5" padding="0">
       <mj-column>
         <mj-image padding="0" border="none" width="600px" src="https://i.ibb.co/9rT1V9P/Sofinco112024.jpg" alt="De plus en plus de jeunes ont recours à l’apprentissage pour se former."/>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#EDF2F7" padding-left="25px" padding-right="25px" border-radius="0 0 25px 25px">
+    <mj-section background-color="#eff1f5" padding-left="25px" padding-right="25px" border-radius="0 0 25px 25px">
       <mj-column width="30%" css-class="logo" padding-right="25px">
         <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/gdBNb5n/lg-Sofinco112024.png" alt="Logo couleur Sofinco, groupe Crédit Agricole."/>
       </mj-column>
@@ -155,19 +155,19 @@
         <mj-spacer height="30px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#EDF2F7" padding="0">
+    <mj-section background-color="#eff1f5" padding="0">
       <mj-column>
-        <mj-image padding="0" border="none" width="600px" src="https://i.ibb.co/6nk3t3y/Handicap112024.jpg" alt="De plus en plus de jeunes ont recours à l'apprentissage pour se former."/>
+        <mj-image padding="0" border="none" width="600px" src="https://i.ibb.co/6nk3t3y/Handicap112024.jpg" alt="Photo de fauteuils roulants pour personnes handicapées."/>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#EDF2F7" padding-left="25px" padding-right="25px" border-radius="0 0 25px 25px">
+    <mj-section background-color="#eff1f5" padding-left="25px" padding-right="25px" border-radius="0 0 25px 25px">
       <mj-column width="30%" css-class="logo" padding-right="25px">
-        <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/7rQBdgV/lg-AKTO112024.png" alt="De plus en plus de jeunes ont recours à l'apprentissage pour se former."/>
+        <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/7rQBdgV/lg-AKTO112024.png" alt="logo Akto, l'humain au coeur des services "/>
         <mj-spacer height="15px"></mj-spacer>
-        <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/LJTJvQD/lg-CNRFP112024.png" alt="De plus en plus de jeunes ont recours à l'apprentissage pour se former."/>
+        <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/LJTJvQD/lg-CNRFP112024.png" alt="logo cnrf, Boostez votre carrière avec nos formations professionnelles"/>
       </mj-column>
       <mj-column width="70%">
-        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase" letter-spacing="1px">Ecole</mj-text>
+        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase" letter-spacing="1px">École</mj-text>
         <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Ecosup Campus se forme pour toujours mieux accompagner !</mj-text>
         <mj-text padding="5px 0px" font-size="16px" line-height="20px" font-weight="400" color="#45546E">Un sujet qui nous tient particulièrement à cœur. Pour aller plus loin que les simples recommandations ou nos obligations <span style="font-weight:700;color:#2D3748;">Qualiopi</span>, <span style="font-weight:700;color:#2D3748;">Ecosup Campus</span> investit en temps et en moyens pour assurer l'inclusion et l'accompagnement de <span style="font-weight:700;color:#2D3748;">TOUS</span> !</mj-text>
         <mj-text padding="5px 0px" font-size="16px" line-height="20px" font-weight="400" color="#45546E">C'est au travers de formations pointues et complètes, dispensées par des acteurs reconnus : <span style="font-weight:700;color:#2D3748;">CNRFP</span>, centre de formations professionnelles, et <span style="font-weight:700;color:#2D3748;">AKTO</span>, formations en ressources humaines, que nos équipes continuent tout au long de l'année de se spécialiser sur ce sujet si important.</mj-text>
@@ -178,7 +178,7 @@
         <mj-spacer height="30px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#EDF2F7">
+    <mj-section background-color="#eff1f5">
       <mj-column width="30%">
         <mj-image padding="0" border="none" width="480px" src="https://i.ibb.co/SmTfMy7/news-AE04-082024.jpg" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
         <mj-spacer height="15px"></mj-spacer>
@@ -186,7 +186,7 @@
       <mj-column width="70%">
         <mj-text padding="0px 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase" letter-spacing="1px">Apprentissage</mj-text>
         <mj-text padding="0px 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Votre entreprise recherche un collaborateur ! </mj-text>
-        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">Certains de nos étudiants(es) n'ont toujours pas de <span style="font-weight:700;">contrat d'apprentissage</span>. Découvrez leur profil, téléchargez et consultez notre <a style="color:#BA4995;font-weight:700" href="https://ecosup-assurance.fr/cv-book/">CV Book code:102024</a>. Vous y trouverez sans aucun doute votre futur apprenti !</mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#45546e">Certains de nos étudiants(es) n'ont toujours pas de <span style="font-weight:700;color:#2D3748">contrat d'apprentissage</span>. Découvrez leur profil, téléchargez et consultez notre <a style="color:#BA4995;font-weight:700" href="https://ecosup-assurance.fr/cv-book/">CV Book code:102024</a>. Vous y trouverez sans aucun doute votre futur apprenti !</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
@@ -194,7 +194,7 @@
         <mj-spacer height="30px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#EDF2F7">
+    <mj-section background-color="#eff1f5">
       <mj-column width="30%">
         <mj-image padding="0" border="none" width="480px" src="https://i.ibb.co/NKhY92H/112024-A8-Assurance.jpg" alt="Affiche de la Journée Portes Ouvertes du 23 novembre de 9h30 à 13h"/>
         <mj-spacer height="15px"></mj-spacer>
@@ -205,7 +205,7 @@
         <mj-social padding="0 25px" align="left" font-size="20px" line-height="24px" font-weight="500" icon-size="22px" inner-padding="0px 10px 0px 0px" color="#BA4995" mode="vertical">
           <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png" alt="icon calendrier"><span style="color:#BA4995;">Samedi 25 janvier de 9h30 à 17h</span></mj-social-element>
         </mj-social>
-        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#2D3748">L'occasion de découvrir les locaux, de rencontrer l'équipe pédagogique, de visiter les installations techniques, de discuter avec des étudiants et de commencer à vous familiariser avec votre futur univers.</mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#45546e">L'occasion de découvrir les locaux, de rencontrer l'équipe pédagogique, de visiter les installations techniques, de discuter avec des étudiants et de commencer à vous familiariser avec votre futur univers.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
@@ -213,61 +213,61 @@
         <mj-spacer height="30px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#97a2b5" padding-left="23px" padding-right="23px" padding-bottom="10px">
+    <mj-section background-color="#586c8d" padding-left="23px" padding-right="23px" padding-bottom="10px">
       <mj-column width="100%">
         <mj-text padding="0px 2px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase" letter-spacing="1px">Apprentissage</mj-text>
         <mj-text padding="0px 2px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#EDF2F7">Entreprises partenaires qui accueillent nos étudiants</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#97a2b5" padding="0px 23px">
+    <mj-section background-color="#586c8d" padding="0px 23px">
       <mj-group width="100%">
-        <mj-column background-color="#97a2b5" padding="2px">
+        <mj-column background-color="#586c8d" padding="2px">
           <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/3CfWWxL/Logo-Assurance14.jpg" alt="logo couleur AXA assurance"/>
         </mj-column>
-        <mj-column background-color="#97a2b5" padding="2px">
+        <mj-column background-color="#586c8d" padding="2px">
           <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/h8YcCy9/Logo-Assurance13.jpg" alt="logo couleur SMA btp"/>
         </mj-column>
-        <mj-column background-color="#97a2b5" padding="2px">
+        <mj-column background-color="#586c8d" padding="2px">
           <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/XspTwRh/Logo-Assurance12.jpg" alt="logo couleur DLM location"/>
         </mj-column>
-        <mj-column background-color="#97a2b5" padding="2px">
+        <mj-column background-color="#586c8d" padding="2px">
           <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/1vDhhpM/Logo-Assurance11.jpg" alt="logo couleur Concilian"/>
         </mj-column>
-        <mj-column background-color="#97a2b5" padding="2px">
+        <mj-column background-color="#586c8d" padding="2px">
           <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/xY71s8T/Logo-Assurance10.jpg" alt="logo couleur Mésange Prévoyance"/>
         </mj-column>
-        <mj-column background-color="#97a2b5" padding="2px">
+        <mj-column background-color="#586c8d" padding="2px">
           <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/r3LzxSd/Logo-Assurance09.jpg" alt="logo couleur groupe Henner"/>
         </mj-column>
-        <mj-column background-color="#97a2b5" padding="2px">
+        <mj-column background-color="#586c8d" padding="2px">
           <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/KNS4FXx/Logo-Assurance08.jpg" alt="logo couleur Allianz assurance"/>
         </mj-column>
       </mj-group>
       <mj-group width="100%">
-        <mj-column background-color="#97a2b5" padding="2px">
+        <mj-column background-color="#586c8d" padding="2px">
           <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/s3Qyqv3/Logo-Assurance07.jpg" alt="logo couleur Swiss Life"/>
         </mj-column>
-        <mj-column background-color="#97a2b5" padding="2px">
+        <mj-column background-color="#586c8d" padding="2px">
           <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/Qpm6jgs/Logo-Assurance06.jpg" alt="logo couleur Humanis Malakoff"/>
         </mj-column>
-        <mj-column background-color="#97a2b5" padding="2px">
+        <mj-column background-color="#586c8d" padding="2px">
           <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/G77qxcj/Logo-Assurance05.jpg" alt="logo couleur Sofinco"/>
         </mj-column>
-        <mj-column background-color="#97a2b5" padding="2px">
+        <mj-column background-color="#586c8d" padding="2px">
           <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/gP4PsSM/Logo-Assurance04.jpg" alt="logo couleur Deledalle courtier d'assurances"/>
         </mj-column>
-        <mj-column background-color="#97a2b5" padding="2px">
+        <mj-column background-color="#586c8d" padding="2px">
           <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/mzbfQs1/Logo-Assurance03.jpg" alt="logo 2M votre courtier assurancess"/>
         </mj-column>
-        <mj-column background-color="#97a2b5" padding="2px">
+        <mj-column background-color="#586c8d" padding="2px">
           <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/6J8BVCd/Logo-Assurance02.jpg" alt="logo couleur MMA assurance"/>
         </mj-column>
-        <mj-column background-color="#97a2b5" padding="2px">
+        <mj-column background-color="#586c8d" padding="2px">
           <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/8r9FGG5/Logo-Assurance01.jpg" alt="logo couleur Diot groupe Diot Siaci"/>
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section background-color="#97a2b5" padding="20px 32px" border-radius="0px 0px 25px 25px">
+    <mj-section background-color="#586c8d" padding="20px 32px" border-radius="0px 0px 25px 25px">
       <mj-column width="320px">
         <mj-image width="140px" padding="0" border="none" align="center" target="_blank" src="https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus"/>
         <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">17 rue Charles et Albert Roussel</mj-text>
