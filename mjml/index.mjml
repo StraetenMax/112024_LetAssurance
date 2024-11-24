@@ -100,7 +100,7 @@
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase" letter-spacing="1px">Découverte Entreprise</mj-text>
-        <mj-text padding="0px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Réunion BNI spéciale invités s'invite chez Ecosup Campus !</mj-text>
+        <mj-text padding="0px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Réunion BNI spéciale invités <span style="color:#8b5fb9">s'invite chez Ecosup Campus !</span></mj-text>
         <mj-text padding="5px 0px" font-size="16px" line-height="20px" font-weight="700" color="color:#2D3748">Un grand moment de réseautage et de partage à Tourcoing !</mj-text>
         <mj-text padding="5px 0px" font-size="16px" line-height="20px" font-weight="400" color="#45546e">Pensez-vous qu'il soit possible de déjeuner avec la Caisse d'Epargne de Tourcoing, Allianz de Roncq, un expert-comptable, une décoratrice d'intérieur, un architecte et des dizaines d'autres entreprises en même temps ?</mj-text>
         <mj-text padding="5px 0px" font-size="16px" line-height="20px" font-weight="400" color="#45546e">C'est ce qu'<span style="font-weight:700;color:#2D3748;">Ecosup Campus</span> a réalisé avec le <span style="font-weight:700;color:#2D3748;">BNI</span> ce jeudi 14 novembre lors de la <span style="font-weight:700;color:#2D3748;">réunion spéciale invités</span> ! Une belle manière pour <span style="font-weight:700;color:#2D3748">Ecosup Campus</span> de rayonner au niveau régional et une chance également pour nos élèves de BTS et de Bachelor présents de participer à un évènement pro...</mj-text>
@@ -125,7 +125,7 @@
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase" letter-spacing="1px">Découverte Entreprise</mj-text>
-        <mj-text padding="0px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Journée d'intégration Groupe Crédit Agricole pour les alternants Ecosup Assurance !</mj-text>
+        <mj-text padding="0px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Journée d'intégration Groupe Crédit Agricole <span style="color:#8b5fb9">pour les alternants Ecosup Assurance !</span></mj-text>
         <mj-text padding="5px 0px" font-size="16px" line-height="20px" font-weight="400" color="#45546e">La nouvelle promotion d'alternants s'est réunie ce jeudi 13 novembre à Massy pour leur journée d'intégration au siège de <span style="font-weight:700,color:#2D3748;">Sofinco</span>, consacrée à la découverte du <span style="font-weight:700;color:#2D3748;">Groupe Crédit Agricole</span>, de ses métiers, de ses stratégies et de leur PlanJeunesse. Une journée riche en informations mais surtout un très beau moment de cohésion.</mj-text>
         <mj-text padding="5px 0px" font-size="16px" line-height="20px" font-weight="400" color="#45546e">Nous souhaitons à nos alternants du <span style="font-weight:700;color:#2D3748;">Groupe Crédit Agricole</span> une belle année de formation !</mj-text>
         <mj-spacer height="10px"></mj-spacer>
@@ -153,7 +153,7 @@
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase" letter-spacing="1px">Formation</mj-text>
-        <mj-text padding="0px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Ecosup Assurance : objectif Bac+5 Expert en Ingénerie Patrimoniale</mj-text>
+        <mj-text padding="0px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092"><span style="color:#8b5fb9">Ecosup Assurance :</span> objectif Bac+5 Expert en Ingénerie Patrimoniale</mj-text>
         <mj-text padding="5px 0px" font-size="16px" line-height="20px" font-weight="400" color="#45546E">Présent lors du grand <span style="font-weight:700;color:#2D3748">rendez-vous des écoles partenaires de l'ESA</span> (École Supérieure d'Assurances), <span style="font-weight:700;color:#2D3748;">Ecosup Assurance</span> finalise et consolide son cursus de formation des professionnels de la Banque Assurance avec ce diplôme reconnu d'Ingénierie Patrimoniale. Un grand pas pour <span style="font-weight:700;color:#2D3748;">Ecosup Assurance</span> et surtout pour nos élèves.</mj-text>
         <mj-text padding="5px 0px" font-size="16px" line-height="20px" font-weight="400" color="#45546E">On vous attend lors de la Grande <span style="font-weight:700;color:#2D3748">Journée Porte Ouverte du 25 janvier 2025</span> pour le lancement officiel du diplôme de Gestion de patrimoine !</mj-text>
         <mj-spacer height="10px"></mj-spacer>
@@ -178,7 +178,7 @@
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase" letter-spacing="1px">École</mj-text>
-        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Ecosup Campus se forme pour toujours mieux accompagner !</mj-text>
+        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092"><span style="color:#8b5fb9">Ecosup Campus se forme pour</span> toujours mieux accompagner !</mj-text>
         <mj-text padding="5px 0px" font-size="16px" line-height="20px" font-weight="400" color="#45546E">Un sujet qui nous tient particulièrement à cœur. Pour aller plus loin que les simples recommandations ou nos obligations <span style="font-weight:700;color:#2D3748;">Qualiopi</span>, <span style="font-weight:700;color:#2D3748;">Ecosup Campus</span> investit en temps et en moyens pour assurer l'inclusion et l'accompagnement de <span style="font-weight:700;color:#2D3748;">TOUS</span> !</mj-text>
         <mj-text padding="5px 0px" font-size="16px" line-height="20px" font-weight="400" color="#45546E">C'est au travers de formations pointues et complètes, dispensées par des acteurs reconnus : <span style="font-weight:700;color:#2D3748;">CNRFP</span>, centre de formations professionnelles, et <span style="font-weight:700;color:#2D3748;">AKTO</span>, formations en ressources humaines, que nos équipes continuent tout au long de l'année de se spécialiser sur ce sujet si important.</mj-text>
       </mj-column>
@@ -211,7 +211,7 @@
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase" letter-spacing="1px">À vos Agendas</mj-text>
-        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Ecosup : Journée Portes Ouvertes</mj-text>
+        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092"><span style="color:#8b5fb9">Ecosup :</span> Journée Portes Ouvertes</mj-text>
         <mj-social padding="0 25px" align="left" font-size="20px" line-height="24px" font-weight="500" icon-size="22px" inner-padding="0px 10px 0px 0px" color="#BA4995" mode="vertical">
           <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png" alt="icon calendrier"><span style="color:#BA4995;">Samedi 25 janvier de 9h30 à 17h</span></mj-social-element>
         </mj-social>
@@ -225,7 +225,7 @@
     </mj-section>
     <mj-section background-color="#586c8d" padding-left="23px" padding-right="23px" padding-bottom="10px">
       <mj-column width="100%">
-        <mj-text padding="0px 2px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase" letter-spacing="1px">Apprentissage</mj-text>
+        <mj-text padding="0px 2px" align="left" font-size="14px" font-weight="900" color="#0a0c10" line-height="18px" text-transform="uppercase" letter-spacing="1px">Apprentissage</mj-text>
         <mj-text padding="0px 2px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#EDF2F7">Entreprises partenaires qui accueillent nos étudiants</mj-text>
       </mj-column>
     </mj-section>
@@ -284,9 +284,9 @@
         <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc" text-transform="uppercase">59200 Tourcoing</mj-text>
         <mj-text padding="0" align="center" font-size="12px" font-weight="700" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="tel:0320700606">Tél 03.20.70.06.06</a>               </mj-text>
         <mj-text padding="0 0 25px 0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">Si vous n'arrivez pas à lire cet email, cliquez <a style="color:#BA4995;font-size:12px;font-weight:300" href="{{ mirror}}">ici</a>           </mj-text>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#fcfcfc;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</mj-text>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">Pour vous désinscrire, cliquez <a style="color:#BA4995;font-size:12px;font-weight:300;" href="{{ unsubscribe }}">ici</a></mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#0a0c10">Si vous n'arrivez pas à lire cet email, cliquez <a style="color:#BA4995;font-size:12px;font-weight:700" href="{{ mirror}}">ici</a>           </mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#0a0c10">Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#0a0c10;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#0a0c10">Pour vous désinscrire, cliquez <a style="color:#BA4995;font-size:12px;font-weight:700;" href="{{ unsubscribe }}">ici</a></mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
