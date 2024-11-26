@@ -136,21 +136,21 @@
       <mj-column width="40%" css-class="logo" padding="10px">
         <mj-image padding="0" border="none" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/HBS9Wdq/Handicap.jpg" alt="Photo de fauteuils roulants pour personnes handicapées."/>
         <mj-spacer height="10px"></mj-spacer>
-        <mj-social padding="0" css-class="photo" icon-size="80px" mode="horizontal">
-          <mj-social-element width="150px" src="https://i.ibb.co/KqgJYmr/icon-Handicap1.png" alt="pictogramme des déficiences motrices (amputation)"></mj-social-element>
-          <mj-social-element width="150px" src="https://i.ibb.co/0p0rvvS/icon-Handicap2.png" alt="pictogramme des maladies cardio-vasculaires"></mj-social-element>
+        <mj-social padding="0" css-class="photo" icon-size="75px" inner-padding="0" mode="horizontal">
+          <mj-social-element src="https://i.ibb.co/KqgJYmr/icon-Handicap1.png" alt="pictogramme des déficiences motrices (amputation)"></mj-social-element>
+          <mj-social-element src="https://i.ibb.co/0p0rvvS/icon-Handicap2.png" alt="pictogramme des maladies cardio-vasculaires"></mj-social-element>
         </mj-social>
-        <mj-social padding="0" css-class="photo" icon-size="80px" mode="horizontal">
-          <mj-social-element width="150px" src="https://i.ibb.co/NZbwFHB/icon-Handicap8.png" alt="pictogramme du handicap auditif"></mj-social-element>
-          <mj-social-element width="150px" src="https://i.ibb.co/0XfbYM3/icon-Handicap6.png" alt="pictogramme du handicap mental / physique"></mj-social-element>
+        <mj-social padding="0" css-class="photo" icon-size="75px" inner-padding="0" mode="horizontal">
+          <mj-social-element src="https://i.ibb.co/NZbwFHB/icon-Handicap8.png" alt="pictogramme du handicap auditif"></mj-social-element>
+          <mj-social-element src="https://i.ibb.co/0XfbYM3/icon-Handicap6.png" alt="pictogramme du handicap mental / physique"></mj-social-element>
         </mj-social>
-        <mj-social padding="0" css-class="photo" icon-size="80px" mode="horizontal">
-          <mj-social-element width="150px" src="https://i.ibb.co/HYr7DwG/icon-Handicap7.png" alt="pictogramme du handicap visuel"></mj-social-element>
-          <mj-social-element width="150px" src="https://i.ibb.co/JKXjH10/icon-Handicap3.png" alt="pictogramme des maladies invalidantes"></mj-social-element>
+        <mj-social padding="0" css-class="photo" icon-size="75px" inner-padding="0" mode="horizontal">
+          <mj-social-element src="https://i.ibb.co/HYr7DwG/icon-Handicap7.png" alt="pictogramme du handicap visuel"></mj-social-element>
+          <mj-social-element src="https://i.ibb.co/JKXjH10/icon-Handicap3.png" alt="pictogramme des maladies invalidantes"></mj-social-element>
         </mj-social>
-        <mj-social padding="0" css-class="photo" icon-size="80px" mode="horizontal">
-          <mj-social-element width="150px" src="https://i.ibb.co/4YthGpf/icon-Handicap4.png" alt="pictogramme des déficiences motrices"></mj-social-element>
-          <mj-social-element width="150px" src="https://i.ibb.co/wLcxPzX/icon-Handicap5.png" alt="pictogramme du handicap mental / psychique"></mj-social-element>
+        <mj-social padding="0" css-class="photo" icon-size="75px" inner-padding="0" mode="horizontal">
+          <mj-social-element src="https://i.ibb.co/4YthGpf/icon-Handicap4.png" alt="pictogramme des déficiences motrices"></mj-social-element>
+          <mj-social-element src="https://i.ibb.co/wLcxPzX/icon-Handicap5.png" alt="pictogramme du handicap mental / psychique"></mj-social-element>
         </mj-social>
       </mj-column>
       <mj-column width="60%" padding="10px">
