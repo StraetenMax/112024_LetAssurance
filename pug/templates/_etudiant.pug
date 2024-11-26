@@ -11,6 +11,12 @@ mjml
             <meta name="format-detection" content="address=no"/>
             <meta name="format-detection" content="email=no"/>
         mj-breakpoint(width='480px')/
+        mj-style. 
+            @media (max-width: 480px){
+                .photo{
+                    display: none !important;
+                }
+            }
     mj-body(background-color='#fcfcfc')
         //- block content
         block content
